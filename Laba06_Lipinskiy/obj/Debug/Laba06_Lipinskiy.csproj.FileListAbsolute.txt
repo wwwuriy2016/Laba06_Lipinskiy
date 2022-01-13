@@ -1,0 +1,10 @@
+C:\Users\dariy\Desktop\старый рабочий стол\proga\Laba06_Lipinskiy\Laba06_Lipinskiy\bin\Debug\Laba06_Lipinskiy.exe.config
+C:\Users\dariy\Desktop\старый рабочий стол\proga\Laba06_Lipinskiy\Laba06_Lipinskiy\bin\Debug\Laba06_Lipinskiy.exe
+C:\Users\dariy\Desktop\старый рабочий стол\proga\Laba06_Lipinskiy\Laba06_Lipinskiy\bin\Debug\Laba06_Lipinskiy.pdb
+C:\Users\dariy\Desktop\старый рабочий стол\proga\Laba06_Lipinskiy\Laba06_Lipinskiy\obj\Debug\Laba06_Lipinskiy.csproj.AssemblyReference.cache
+C:\Users\dariy\Desktop\старый рабочий стол\proga\Laba06_Lipinskiy\Laba06_Lipinskiy\obj\Debug\Laba06_Lipinskiy.Form1.resources
+C:\Users\dariy\Desktop\старый рабочий стол\proga\Laba06_Lipinskiy\Laba06_Lipinskiy\obj\Debug\Laba06_Lipinskiy.Properties.Resources.resources
+C:\Users\dariy\Desktop\старый рабочий стол\proga\Laba06_Lipinskiy\Laba06_Lipinskiy\obj\Debug\Laba06_Lipinskiy.csproj.GenerateResource.cache
+C:\Users\dariy\Desktop\старый рабочий стол\proga\Laba06_Lipinskiy\Laba06_Lipinskiy\obj\Debug\Laba06_Lipinskiy.csproj.CoreCompileInputs.cache
+C:\Users\dariy\Desktop\старый рабочий стол\proga\Laba06_Lipinskiy\Laba06_Lipinskiy\obj\Debug\Laba06_Lipinskiy.exe
+C:\Users\dariy\Desktop\старый рабочий стол\proga\Laba06_Lipinskiy\Laba06_Lipinskiy\obj\Debug\Laba06_Lipinskiy.pdb
